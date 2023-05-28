@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC Preta",
+            "price": 2.99
+        },
+        {
+            "id": 2,
+            "name": "Caneta BIC Azul",
+            "price": 2.99
+        },
+        {
+            "id": 3,
+            "name": "Caneta BIC Vermelha",
+            "price": 2.99
+        },
+        {
+            "id": 4,
+            "name": "Caneta BIC Verde",
+            "price": 2.99
+        },
+        {
+            "id": 5,
+            "name": "Caderno Universitário Tilibra 20 matérias",
+            "price": 29.00
+        },
+        {
+            "id": 6,
+            "name": "Caderno Universitário Tilibra 10 matérias",
+            "price": 16.50
+        },
+        {
+            "id": 7,
+            "name": "Lapiseira BIC 0.7 3 unidades",
+            "price": 17.89
+        },
+        {
+            "id": 8,
+            "name": "Borracha Office Basics branca",
+            "price": 4.99
+        }
+    ]
+}
